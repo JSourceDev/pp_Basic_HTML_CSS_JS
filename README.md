@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases who I am as a j
 
 ## 📸 Live Demo
 
-[Click here to view the live website](https://yourusername.github.io/your-portfolio-repo/)  
+[Click here to view the live website](https://github.com/JSourceDev/pp_Basic_HTML_CSS_JS)  
 *(Replace with your actual GitHub Pages or deployment link)*
 
 ---
@@ -43,7 +43,7 @@ As a fresh developer, I created this portfolio to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-portfolio-repo.git
+   git clone https://github.com/JSourceDev/pp_Basic_HTML_CSS_JS
 
 2.	Open index.html in your browser.
 
