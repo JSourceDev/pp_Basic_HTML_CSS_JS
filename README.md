@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases who I am as a j
 
 ## 📸 Live Demo
 
-[Click here to view the live website](https://github.com/JSourceDev/pp_Basic_HTML_CSS_JS)  
+[Click here to view the live website](http://127.0.0.1:5500/index.html)  
 *(Replace with your actual GitHub Pages or deployment link)*
 
 ---
